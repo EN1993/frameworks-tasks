@@ -12,7 +12,7 @@ import Accordion from 'react-bootstrap/Accordion'
 function Home() {
   return (
     <>
-      <Navbar bg="light" expand="lg">
+      <Navbar bg="dark" expand="lg" variant="dark">
   
         <Navbar.Brand href="#Home"> React Bootstrap</Navbar.Brand>
       

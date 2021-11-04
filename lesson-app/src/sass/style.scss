@@ -1,0 +1,13 @@
+
+$colour-secondary: #6a6a68;
+$colour-input: #d8c3a5;
+$colour-primary: #e85a4f;
+
+// sass bootstrap
+$theme-colors: (
+ 
+  "primary":      $colour-primary,
+  "dark":       $colour-primary,
+) ;
+
+@import "~bootstrap/scss/bootstrap";
